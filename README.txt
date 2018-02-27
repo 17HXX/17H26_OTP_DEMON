@@ -1,7 +1,7 @@
 /****************************************************/
-20180227
+27/02/2018
 
-1>  add three demon
-    a,one for iSearching 
-	b,one for transparent application about slave iic
-	c,one for HID application 
+1>  add more demon:
+    a,one for iSearching;
+	b,one for transparent application about slave iic;
+	c,one for HID application;
